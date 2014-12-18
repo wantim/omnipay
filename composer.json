@@ -45,7 +45,7 @@
         "twocheckout",
         "worldpay"
     ],
-    "homepage": "https://github.com/thephpleague/omnipay",
+    "homepage": "https://github.com/wantim/omnipay",
     "license": "MIT",
     "authors": [
         {
@@ -54,7 +54,7 @@
         },
         {
             "name": "Omnipay Community",
-            "homepage": "https://github.com/thephpleague/omnipay/graphs/contributors"
+            "homepage": "https://github.com/wantim/omnipay/graphs/contributors"
         }
     ],
     "require": {
@@ -83,7 +83,13 @@
         "omnipay/securepay": "~2.0",
         "omnipay/stripe": "~2.0",
         "omnipay/targetpay": "~2.0",
-        "omnipay/worldpay": "~2.0"
+        "omnipay/worldpay": "~2.0",
+        "omnipay/havale": "dev-master",
+        "omnipay/curabill": "dev-master",
+        "omnipay/datatrans": "dev-master",
+        "omnipay/garanti": "dev-master", 
+        "omnipay/yapikredi": "dev-master",
+        "omnipay/isbank": "dev-master"
     },
     "require-dev": {
         "omnipay/tests": "~2.0"
