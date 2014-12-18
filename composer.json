@@ -84,12 +84,12 @@
         "omnipay/stripe": "~2.0",
         "omnipay/targetpay": "~2.0",
         "omnipay/worldpay": "~2.0",
-        "omnipay/havale": "dev-master",
-        "omnipay/curabill": "dev-master",
-        "omnipay/datatrans": "dev-master",
-        "omnipay/garanti": "dev-master", 
-        "omnipay/yapikredi": "dev-master",
-        "omnipay/isbank": "dev-master"
+        "wantim/havale": "dev-master",
+        "wantim/curabill": "dev-master",
+        "wantim/datatrans": "dev-master",
+        "wantim/garanti": "dev-master", 
+        "wantim/yapikredi": "dev-master",
+        "wantim/isbank": "dev-master"
     },
     "require-dev": {
         "omnipay/tests": "~2.0"
